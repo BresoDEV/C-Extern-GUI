@@ -3,7 +3,7 @@
 <p><br />
 Simple menu base, based on GTAV NativeUi or others modmenus, to use on your hack tool<br />
 I&#39;ll not work on this anymore, so fell free to use and make your own changes...<br />
-Preview <a href="https://youtu.be/KHu8Pupnqcc&amp;nbsp">here</a></p>
+Preview <a href="https://youtu.be/KHu8Pupnqcc&amp;nbsp">here</a> (TIP:This video is outdated, new version have more features and options</p>
 
 <p><br />
 <strong>Features:</strong></p>
