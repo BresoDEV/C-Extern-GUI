@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\IMGUI\bin\Debug\IMGUI.exe.config
+C:\Users\usuario\source\repos\IMGUI\bin\Debug\IMGUI.exe
+C:\Users\usuario\source\repos\IMGUI\bin\Debug\IMGUI.pdb
+C:\Users\usuario\source\repos\IMGUI\obj\Debug\IMGUI.Form1.resources
+C:\Users\usuario\source\repos\IMGUI\obj\Debug\IMGUI.Properties.Resources.resources
+C:\Users\usuario\source\repos\IMGUI\obj\Debug\IMGUI.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\IMGUI\obj\Debug\IMGUI.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\IMGUI\obj\Debug\IMGUI.exe
+C:\Users\usuario\source\repos\IMGUI\obj\Debug\IMGUI.pdb
+C:\Users\usuario\source\repos\IMGUI\obj\Debug\IMGUI.csproj.AssemblyReference.cache
